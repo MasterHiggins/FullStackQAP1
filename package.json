@@ -1,0 +1,14 @@
+{
+  "name": "schoolprogramming",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Chris Higgins",
+  "license": "ISC"
+}

@@ -1,0 +1,23 @@
+Node.js Console is a global object used to display different messages it contains two modules,
+the Console Class, which has methods such as .log() and .error(), and the Global Console, which 
+allows you to call upon any of the methods without declaring "console" before it.
+
+Node.js Path allows you to work with pathways. It has verious methods, such as .basename() or 
+.extname().
+
+My favourite, Node.js Buffer is a global object and provides a way of handling streams of binary 
+data. It has methods such as .byteLength() and .compare().
+
+
+
+
+
+Geekcentral and W3 Schools used for information
+
+Some files were moved around, however it should all still function correctly
+
+The QAP took about an hour.
+W3Schools was used a lot, but Geekcentral just for the first part of the QAP.
+No friend involvement.
+No instructor involvement.
+The QAP was relatively easy, a 2 out of 5 or so, unless I did something horribly wrong.
